@@ -1,0 +1,14 @@
+.github/workflows/cla.yml
+  h_e8a5bb9272fa34 21-23
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "ca9b3d43cc9c5a88e630bfbcada7c0dfea99ba98",
+  "prompts": {},
+  "humans": {
+    "h_e8a5bb9272fa34": {
+      "author": "davidteren <drteren@gmail.com>"
+    }
+  }
+}
