@@ -1,0 +1,26 @@
+src/platform/lib/indexGraph.test.ts
+  s_1fb4defd7650a2::t_50763a69666640 108-117
+  s_1fb4defd7650a2::t_b4d708789cc0c2 3-11
+changelog.d/ruby-index-support.md
+  s_1fb4defd7650a2::t_7d69ea317b73b7 22-23
+src/platform/components/IndexGraph.tsx
+  s_1fb4defd7650a2::t_4f18ac58edf69d 10,32,45-50,71,215-237,295
+src/platform/lib/indexGraph.ts
+  s_1fb4defd7650a2::t_cee4e4655c3676 41-47
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "ca02c13ddde47111e3c35e538b8429cb2f6f7ba4",
+  "prompts": {},
+  "sessions": {
+    "s_1fb4defd7650a2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "969b7e0d-7597-4e40-8434-62e873867303",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "davidteren <drteren@gmail.com>"
+    }
+  }
+}
