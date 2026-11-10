@@ -1,0 +1,16 @@
+src/platform/lib/indexGraph.test.ts
+  h_e8a5bb9272fa34 86-94
+src/platform/lib/indexGraph.ts
+  h_e8a5bb9272fa34 105-107,143,145-148
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "186f6929d811c4ae269353038456e6233e74e1b4",
+  "prompts": {},
+  "humans": {
+    "h_e8a5bb9272fa34": {
+      "author": "davidteren <drteren@gmail.com>"
+    }
+  }
+}
