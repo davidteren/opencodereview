@@ -1,0 +1,18 @@
+Cargo.lock
+  h_e8a5bb9272fa34 728,830,832,1344,1346
+backend/Cargo.toml
+  h_e8a5bb9272fa34 35-37
+changelog.d/fix-fork-checks.md
+  h_e8a5bb9272fa34 1-4
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "363d997c8c755bad96603ed668117bd0d178b8aa",
+  "prompts": {},
+  "humans": {
+    "h_e8a5bb9272fa34": {
+      "author": "davidteren <drteren@gmail.com>"
+    }
+  }
+}
