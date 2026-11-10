@@ -1,0 +1,37 @@
+backend/src/db/mod.rs
+  s_1fb4defd7650a2::t_89298a8d67c924 622
+backend/src/indexer/manifests.rs
+  s_606cbc09d8b8f4::t_9b81e80975bf5f 6-18,37-50,156-161,170,176-182,359-361
+backend/src/indexer/mod.rs
+  s_1fb4defd7650a2::t_bedb3b930155fe 181,193,309-318
+backend/src/indexer/ruby.rs
+  s_606cbc09d8b8f4::t_eb360a61af6e62 196-333
+backend/src/indexer/tests.rs
+  s_606cbc09d8b8f4::t_d73b617a34932a 762-865
+changelog.d/ruby-index-support.md
+  s_606cbc09d8b8f4::t_f44497d09fc3a8 3-6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "5e09032b1dcd77cd82176a6c659257e15405bcdb",
+  "prompts": {},
+  "sessions": {
+    "s_1fb4defd7650a2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "969b7e0d-7597-4e40-8434-62e873867303",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "davidteren <drteren@gmail.com>"
+    },
+    "s_606cbc09d8b8f4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3c145762-1d62-4ee6-8123-dc3c4141bc34",
+        "model": "unknown"
+      },
+      "human_author": "davidteren <drteren@gmail.com>"
+    }
+  }
+}
