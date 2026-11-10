@@ -1,0 +1,19 @@
+docker-compose.yml
+  s_1fb4defd7650a2::t_bfecb03c8c6d57 174
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "59660a3945fb173645b774d9dba376b6059397b4",
+  "prompts": {},
+  "sessions": {
+    "s_1fb4defd7650a2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "969b7e0d-7597-4e40-8434-62e873867303",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "davidteren <drteren@gmail.com>"
+    }
+  }
+}
