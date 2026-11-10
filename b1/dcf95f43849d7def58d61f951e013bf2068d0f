@@ -1,0 +1,37 @@
+backend/src/indexer/ruby.rs
+  s_1fb4defd7650a2::t_bd76a2666ebea9 1-170
+  s_1fb4defd7650a2::t_44b9330f25d145 171-173
+  s_1fb4defd7650a2::t_d765b3500d15c2 174-195
+backend/src/db/mod.rs
+  s_1fb4defd7650a2::t_9a178e6f8f7708 622
+backend/src/indexer/imports.rs
+  s_1fb4defd7650a2::t_369fa352cf68cd 13-15,190-194,304
+backend/src/indexer/mod.rs
+  s_1fb4defd7650a2::t_896f1bd7c1a8c3 18,24
+backend/src/indexer/paths.rs
+  s_1fb4defd7650a2::t_77e9ae79e31c80 71,85,119-121
+backend/src/indexer/symbols.rs
+  s_1fb4defd7650a2::t_a9b5a30969395b 15
+changelog.d/ruby-index-support.md
+  s_1fb4defd7650a2::t_dac954acd79857 1-10
+backend/src/indexer/tests.rs
+  s_1fb4defd7650a2::t_1dbbaa12230289 638-761
+backend/src/review/risk.rs
+  s_1fb4defd7650a2::t_1d4cfd417cd39d 220-234
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "b1dcf95f43849d7def58d61f951e013bf2068d0f",
+  "prompts": {},
+  "sessions": {
+    "s_1fb4defd7650a2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "969b7e0d-7597-4e40-8434-62e873867303",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "davidteren <drteren@gmail.com>"
+    }
+  }
+}
