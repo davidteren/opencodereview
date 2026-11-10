@@ -1,0 +1,41 @@
+backend/src/db/mod.rs
+  s_606cbc09d8b8f4::t_56d1bbf4cfdfe4 622
+backend/src/indexer/mod.rs
+  s_1fb4defd7650a2::t_d2837de4a4b6fe 277-278,314-323,329-330,333,360-361
+backend/src/indexer/ruby.rs
+  s_1fb4defd7650a2::t_5a556dd8674e3c 31-40,211-221,230-233,266-272,364-470
+backend/src/indexer/tests.rs
+  s_1fb4defd7650a2::t_039c471c2675bd 684-687,767,866-942
+changelog.d/ruby-index-support.md
+  s_1fb4defd7650a2::t_5be63dda85300d 12-21
+src/platform/components/IndexGraph.tsx
+  s_1fb4defd7650a2::t_77dbbc2a159c1d 10,383-386,459-470,523-528
+src/platform/lib/indexGraph.test.ts
+  s_1fb4defd7650a2::t_8cefc79b13e7a7 3,78-109
+src/platform/lib/indexGraph.ts
+  s_1fb4defd7650a2::t_56f16893b17340 33-40,53,78-84,95-152
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "7cdb5257dfbf0a0ef453d167ad5e7d98f786e7db",
+  "prompts": {},
+  "sessions": {
+    "s_1fb4defd7650a2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "969b7e0d-7597-4e40-8434-62e873867303",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "davidteren <drteren@gmail.com>"
+    },
+    "s_606cbc09d8b8f4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3c145762-1d62-4ee6-8123-dc3c4141bc34",
+        "model": "claude-fable-5-2"
+      },
+      "human_author": "davidteren <drteren@gmail.com>"
+    }
+  }
+}
