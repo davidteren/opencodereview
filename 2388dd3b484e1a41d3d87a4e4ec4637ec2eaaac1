@@ -1,0 +1,16 @@
+backend/src/indexer/ruby.rs
+  h_e8a5bb9272fa34 12-14,18,21,25-29,31,37,56,59,245-250,332-342,344,419-442
+backend/src/indexer/tests.rs
+  h_e8a5bb9272fa34 695-716,826-833
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "2388dd3b484e1a41d3d87a4e4ec4637ec2eaaac1",
+  "prompts": {},
+  "humans": {
+    "h_e8a5bb9272fa34": {
+      "author": "davidteren <drteren@gmail.com>"
+    }
+  }
+}
