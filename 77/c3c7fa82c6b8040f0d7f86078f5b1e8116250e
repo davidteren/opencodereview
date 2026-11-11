@@ -1,0 +1,19 @@
+README.md
+  s_68681036af6b86::t_c6325f157e0656 50,97,132
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "77c3c7fa82c6b8040f0d7f86078f5b1e8116250e",
+  "prompts": {},
+  "sessions": {
+    "s_68681036af6b86": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5ca976d5-b8f4-4339-8ca2-1fee47d661d4",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "davidteren <drteren@gmail.com>"
+    }
+  }
+}
