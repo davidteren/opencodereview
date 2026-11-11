@@ -1,0 +1,23 @@
+README.md
+  s_68681036af6b86::t_e666d2b4f81102 50,133
+changelog.d/fix-web-port-loopback.md
+  s_68681036af6b86::t_1714f7ab2cc8f7 7-8
+docker/test_diagnostics.py
+  s_68681036af6b86::t_c820c017e715ee 64-96
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "c3e0ced1f5e9b3a85b02b5171ac556ef22d3141f",
+  "prompts": {},
+  "sessions": {
+    "s_68681036af6b86": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5ca976d5-b8f4-4339-8ca2-1fee47d661d4",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "davidteren <drteren@gmail.com>"
+    }
+  }
+}
