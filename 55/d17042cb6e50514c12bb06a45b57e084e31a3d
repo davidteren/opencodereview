@@ -1,0 +1,30 @@
+src/platform/lib/indexGraph.ts
+  s_68681036af6b86::t_583e54f254dfb6 121-128
+backend/src/indexer/tests.rs
+  s_68681036af6b86::t_15de76dc0e347b 973-1009
+backend/src/indexer/ruby.rs
+  s_68681036af6b86::t_b71957ac6accb5 265
+  s_68681036af6b86::t_a646da8490e4e0 102-104,106-115
+  s_68681036af6b86::t_be76debee5a7d6 394-396
+  s_68681036af6b86::t_1aa1ad619ebed3 423-429
+  s_68681036af6b86::t_560e6435eb8ca6 306-307,322-357
+  s_68681036af6b86::t_cbbe488d773bc1 430-431
+backend/src/db/mod.rs
+  s_68681036af6b86::t_31d6399a271287 622
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "55d17042cb6e50514c12bb06a45b57e084e31a3d",
+  "prompts": {},
+  "sessions": {
+    "s_68681036af6b86": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5ca976d5-b8f4-4339-8ca2-1fee47d661d4",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "davidteren <drteren@gmail.com>"
+    }
+  }
+}
