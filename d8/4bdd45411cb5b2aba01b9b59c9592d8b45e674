@@ -1,0 +1,22 @@
+backend/src/indexer/imports.rs
+  h_e8a5bb9272fa34 191
+backend/src/indexer/ruby.rs
+  h_e8a5bb9272fa34 215,217-223,225-227,253-264,306,316-323
+backend/src/indexer/tests.rs
+  h_e8a5bb9272fa34 717-741,762-773,775,779,783,786,797-818
+src/platform/lib/indexGraph.test.ts
+  h_e8a5bb9272fa34 95,100
+src/platform/lib/indexGraph.ts
+  h_e8a5bb9272fa34 168-169
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "d84bdd45411cb5b2aba01b9b59c9592d8b45e674",
+  "prompts": {},
+  "humans": {
+    "h_e8a5bb9272fa34": {
+      "author": "davidteren <drteren@gmail.com>"
+    }
+  }
+}
