@@ -1,0 +1,21 @@
+backend/src/indexer/tests.rs
+  s_6391f4d59a5bab::t_bee1763158d81e 808-820
+backend/src/indexer/imports.rs
+  s_6391f4d59a5bab::t_0427791bf2d95a 194-197
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "49501d6d1be253d21e8ae2bc0eee022eeadcce51",
+  "prompts": {},
+  "sessions": {
+    "s_6391f4d59a5bab": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a339f339-ae4a-404f-9a95-6a7614d82d6a",
+        "model": "claude-fable-5-2"
+      },
+      "human_author": "davidteren <drteren@gmail.com>"
+    }
+  }
+}
