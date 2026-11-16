@@ -1,0 +1,25 @@
+backend/src/indexer/tests.rs
+  s_6391f4d59a5bab::t_59d195c44a5926 872-875
+src/platform/lib/indexGraph.ts
+  s_6391f4d59a5bab::t_57c79f7bb065f9 41
+src/platform/lib/indexGraph.test.ts
+  s_6391f4d59a5bab::t_0cb6130f2ef286 119
+backend/src/review/paths.rs
+  s_6391f4d59a5bab::t_22b7baca2207cd 282-287
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "52a4a34b4151c15d9bcf96f633ee6a777b91e3d5",
+  "prompts": {},
+  "sessions": {
+    "s_6391f4d59a5bab": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a339f339-ae4a-404f-9a95-6a7614d82d6a",
+        "model": "claude-fable-5-2"
+      },
+      "human_author": "davidteren <drteren@gmail.com>"
+    }
+  }
+}
