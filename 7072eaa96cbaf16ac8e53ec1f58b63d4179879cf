@@ -1,0 +1,26 @@
+backend/src/indexer/tests.rs
+  s_6391f4d59a5bab::t_ea0713ae7f1731 1049-1107
+changelog.d/feat-ruby-indexing.md
+  s_6391f4d59a5bab::t_56f6975bc0bced 8-9
+backend/src/indexer/ruby.rs
+  s_6391f4d59a5bab::t_ea0713ae7f1731 656,661
+  s_6391f4d59a5bab::t_56fd27154b88d3 654-655,657-660,663-674
+  s_6391f4d59a5bab::t_ebfdc226772adf 548-558
+  s_6391f4d59a5bab::t_6aa6f45cfed063 621-624,631-632,639-644
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "7072eaa96cbaf16ac8e53ec1f58b63d4179879cf",
+  "prompts": {},
+  "sessions": {
+    "s_6391f4d59a5bab": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a339f339-ae4a-404f-9a95-6a7614d82d6a",
+        "model": "claude-fable-5-2"
+      },
+      "human_author": "davidteren <drteren@gmail.com>"
+    }
+  }
+}

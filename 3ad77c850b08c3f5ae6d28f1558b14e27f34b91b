@@ -1,0 +1,38 @@
+backend/src/db/mod.rs
+  h_e8a5bb9272fa34 631-632
+backend/src/indexer/imports.rs
+  h_e8a5bb9272fa34 13-15,190-194,304
+backend/src/indexer/manifests.rs
+  h_e8a5bb9272fa34 6-18,37-50,156-161,170,176-182,359-361
+backend/src/indexer/mod.rs
+  h_e8a5bb9272fa34 18,24,181,193,277-278,311-333,360-361
+backend/src/indexer/paths.rs
+  h_e8a5bb9272fa34 71,85,119-121
+backend/src/indexer/ruby.rs
+  h_e8a5bb9272fa34 1-576
+backend/src/indexer/symbols.rs
+  h_e8a5bb9272fa34 15
+backend/src/indexer/tests.rs
+  h_e8a5bb9272fa34 638-1009
+backend/src/review/risk.rs
+  h_e8a5bb9272fa34 220-234
+changelog.d/ruby-index-support.md
+  h_e8a5bb9272fa34 1-22
+src/platform/components/IndexGraph.tsx
+  h_e8a5bb9272fa34 10,32,45-50,71,215-237,295,403-406,479-490,543-548
+src/platform/lib/indexGraph.test.ts
+  h_e8a5bb9272fa34 3-11,86-136
+src/platform/lib/indexGraph.ts
+  h_e8a5bb9272fa34 33-47,60,85-91,102-170
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "3ad77c850b08c3f5ae6d28f1558b14e27f34b91b",
+  "prompts": {},
+  "humans": {
+    "h_e8a5bb9272fa34": {
+      "author": "davidteren <drteren@gmail.com>"
+    }
+  }
+}

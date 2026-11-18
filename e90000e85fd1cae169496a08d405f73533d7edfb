@@ -1,0 +1,23 @@
+backend/src/indexer/mod.rs
+  s_68681036af6b86::t_ac93630f5dfcd2 313-319,325
+backend/src/indexer/ruby.rs
+  s_68681036af6b86::t_1965f20639cd35 71-106,268-269,285,288-292
+backend/src/indexer/tests.rs
+  s_68681036af6b86::t_03a064f06d9530 1010-1057
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "e90000e85fd1cae169496a08d405f73533d7edfb",
+  "prompts": {},
+  "sessions": {
+    "s_68681036af6b86": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5ca976d5-b8f4-4339-8ca2-1fee47d661d4",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "davidteren <drteren@gmail.com>"
+    }
+  }
+}
